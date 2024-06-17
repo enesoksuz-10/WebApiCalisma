@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sNHt95S+pxqiY/sAdZ0oWqFiQPCbsmkNJ6OepJUbRq0LgVpRCWkMsSS5XLxCjE2Uehh3FpuVuyBVfkicf5KUew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eneso\\OneDrive\\Masaüstü\\25052024_Dersler\\GenericYapılar\\MVC\\MVC_UI\\MVC_UI\\MVC_UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eneso\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
